@@ -7,4 +7,4 @@ def position_taken?(board, index)
   end
 
 end
-position_taken(["O"],0)
+position_taken?(["O"],0)
